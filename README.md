@@ -62,4 +62,4 @@ OverwatchApi::Placeholder.method(arguments)
 ## Development
 
     gem build overwatch_api.gemspec
-    gem install ./overwatch_api-0.0.1.gem
+    gem install ./overwatch_api-0.1.0.gem
